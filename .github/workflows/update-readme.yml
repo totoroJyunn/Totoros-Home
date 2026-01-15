@@ -1,25 +1,43 @@
-name: Update README
+name: Update README contributors preview
 
 on:
-  schedule:
-    - cron: '0 * * * *'  # 每小时运行一次
+  push:
+    paths:
+      - CONTRIBUTORS.md
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v2
+      - uses: actions/checkout@v4
 
-      - name: Update README
+      - name: Update contributors section in README
         run: |
-          echo "当前时间 (UTC): 2026-01-15 01:53:17" >> README.md
-          
+          CONTRIBUTORS=$(grep '^-' CONTRIBUTORS.md | tail -n 5)
+
+          awk '
+          BEGIN {in_block=0}
+          /<!-- CONTRIBUTORS_START -->/ {
+            print;
+            in_block=1;
+            print CONTRIBUTORS;
+            next
+          }
+          /<!-- CONTRIBUTORS_END -->/ {
+            in_block=0;
+            print;
+            next
+          }
+          !in_block {print}
+          ' CONTRIBUTORS="$CONTRIBUTORS" README.md > README.tmp
+
+          mv README.tmp README.md
+
       - name: Commit changes
         run: |
-          git config --local user.name "totoroJyunn"
-          git config --local user.email "45234186+totoroJyunn@users.noreply.github.com"
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
           git add README.md
-          git commit -m "Update README with current date and time"
+          git commit -m "Auto-update contributors preview" || exit 0
           git push
