@@ -17,17 +17,17 @@ and contributed in their own ways, rather than merely consuming what was provide
 - 素白和阿浪 2025-11-20 to 24
 - 沐然和許漪 2025-11-17 to 18, 2025-12-20 to 25
 - 丁丁和君君 2025-12-21 to 26
-- Саша（Poland) 2025-11-22 to24
-- Maru and her friend 2025-11-20
+- Саша（Poland) 2025-11-22 to 24
+- Maru and her friend 2025-11-20 to 12-10
 - Kotaro 2025-11-27 to
 - tsunami 2025-11-20 to 12-15
-- Arturo 
-- Rossy and Nicolas 
-- lisa
-- ホホ and Willow 2025-12-31 to
-- Samed 2025-12-31 to
+- Arthur 2025-11-27 to 30
+- Rossy and Nicolas 2025-12-16 to 17
+- Lisa 2025-12-25 to 30
+- ホホ and Willow 2025-12-31 to 2026-1-5
+- Samed 2025-12-31 to 2026-1-15
 - Саша и Николай и Светлана 2025-12-31 to
-- Elif
-- Keith
-- Meena
-- Daniel and Sunflower
+- Elif 2026-1-9 to 2026-1-14
+- Keith 2026-1-11 to 13
+- Meena 2026-1-13 to 14
+- Daniel and Sunflower 2026-1-14 to
