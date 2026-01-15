@@ -4,6 +4,11 @@ Totoro’s Home — A Formal Moral Principle (inspired by Kant)
 Try to make sure that every action you take reduces the entropy of this space.
 Here, “entropy” simply means mess, disorder, or extra burden left for others.
 Leave the place more orderly and pleasant than you found it.
+## 🪵 Recent Updates
+
+<!-- UPDATE_LOG:START -->
+<!-- UPDATE_LOG:END -->
+→ See the full list in [UPDATE_LOG.md](./UPDATE_LOG.md)
 
 ## Contributors
 
