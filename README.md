@@ -19,7 +19,7 @@ A partial list of contributors:
 → See the full list in [CONTRIBUTORS.md](./CONTRIBUTORS.md)
 
 ## About inviting others to stay
-# (for people who have stayed here before)
+(for people who have stayed here before)
 If you want to invite someone to stay here, you may decide on your own and give them the address.
 However, do not allow them to pass the address on to others.
 Only people who have stayed here before may invite new guests.
