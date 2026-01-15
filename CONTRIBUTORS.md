@@ -13,7 +13,7 @@ and contributed in their own ways, rather than merely consuming what was provide
 - Popi and Will 2025-11-06 to 20
 - Seeya 2025-11-06 to 14
 - 小田 2025-11-16 to 20
-- danz 2025-11-16 to 20
+- Danz和蛮蛮2025-11-16 to 20
 - 素白和阿浪 2025-11-20 to 24
 - 沐然和許漪 2025-11-17 to 18, 2025-12-20 to 25
 - 丁丁和君君 2025-12-21 to 26
@@ -25,9 +25,9 @@ and contributed in their own ways, rather than merely consuming what was provide
 - Rossy and Nicolas 2025-12-16 to 17
 - Lisa 2025-12-25 to 30
 - ホホ and Willow 2025-12-31 to 2026-1-5
-- Samed 2025-12-31 to 2026-1-15
+- Samed 2025-12-31 to 2026-1-16
 - Саша и Николай и Светлана 2025-12-31 to
 - Elif 2026-1-9 to 2026-1-14
 - Keith 2026-1-11 to 13
 - Meena 2026-1-13 to 14
-- Daniel and Sunflower 2026-1-14 to
+- Daniel and fleur 2026-1-14 to
