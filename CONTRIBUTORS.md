@@ -17,7 +17,7 @@ and contributed in their own ways, rather than merely consuming what was provide
 - 素白和阿浪
 - 丁丁和君君
 - Саша（Poland）
-- maru and her friend
+- Maru and Authuro
 - Kotaro
 - tsunami
 - Arturo
