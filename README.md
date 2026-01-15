@@ -7,8 +7,6 @@ Leave the place more orderly and pleasant than you found it.
 
 ## Contributors
 
-## Contributors
-
 This space is shaped by the people who have lived and acted here.
 
 <!-- CONTRIBUTORS_START -->
