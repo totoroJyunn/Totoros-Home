@@ -21,7 +21,7 @@ This space is shaped by the people who have lived and acted here.
 - Elif 2026-1-9 to 2026-1-14
 - Keith 2026-1-11 to 13
 - Meena 2026-1-13 to 14
-- Daniel and Sunflower 2026-1-14 to
+- Daniel and fleur 2026-1-14 to
 <!-- CONTRIBUTORS_END -->
 
 → See the full list in [CONTRIBUTORS.md](./CONTRIBUTORS.md)
