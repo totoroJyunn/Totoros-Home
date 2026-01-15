@@ -7,26 +7,26 @@ It refers to those who chose to live here with initiative —
 people who acted with care, helped maintain the space,
 and contributed in their own ways, rather than merely consuming what was provided.
 
-- Totoro
-- Shawn
-- 南さん
-- Popi and Will
-- seeya
-- 小田
-- danz
-- 沐然和許漪 2025-12-20 to 25
-- 素白和阿浪
-- 丁丁和君君
-- Саша（Poland）
-- Maru and her friend
-- Kotaro
-- tsunami
-- Arturo
-- Rossy and Nicolas
+- Totoro 2025-03-28 to
+- Shawn 2025-08-07 to 11
+- 南さん 2025-10-13 to 15
+- Popi and Will 2025-11-06 to 20
+- Seeya 2025-11-06 to 14
+- 小田 2025-11-16 to 20
+- danz 2025-11-16 to 20
+- 素白和阿浪 2025-11-20 to 24
+- 沐然和許漪 2025-11-17 to 18, 2025-12-20 to 25
+- 丁丁和君君 2025-12-21 to 26
+- Саша（Poland) 2025-11-22 to24
+- Maru and her friend 2025-11-20
+- Kotaro 2025-11-27 to
+- tsunami 2025-11-20 to 12-15
+- Arturo 
+- Rossy and Nicolas 
 - lisa
-- ホホ and Willow
-- Samed
-- Саша и Николай и Светлана
+- ホホ and Willow 2025-12-31 to
+- Samed 2025-12-31 to
+- Саша и Николай и Светлана 2025-12-31 to
 - Elif
 - Keith
 - Meena
