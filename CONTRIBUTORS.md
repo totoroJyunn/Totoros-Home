@@ -7,6 +7,7 @@ It refers to those who chose to live here with initiative —
 people who acted with care, helped maintain the space,
 and contributed in their own ways, rather than merely consuming what was provided.
 
+- Totoro
 - Shawn
 - 南さん
 - Popi and Will
@@ -30,4 +31,3 @@ and contributed in their own ways, rather than merely consuming what was provide
 - Keith
 - Meena
 - Daniel and Sunflower
-- totoro
