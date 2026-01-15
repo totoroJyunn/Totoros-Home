@@ -12,7 +12,7 @@ This space is shaped by the people who have lived and acted here.
 ### Recent contributors (auto-updated, last 5)
 
 <!-- CONTRIBUTORS_START -->
-- Саша и Николай и Светлана
+- Саша и Николай и Светлана 2025-12-31 to
 - Elif
 - Keith
 - Meena
