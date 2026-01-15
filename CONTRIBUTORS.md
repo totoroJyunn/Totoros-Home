@@ -23,7 +23,8 @@ and contributed in their own ways, rather than merely consuming what was provide
 - Arturo
 - Rossy and Nicolas
 - lisa
-- ホホと Samed and Willow
+- ホホ and Willow
+- Samed
 - Саша и Николай и Светлана
 - Elif
 - Keith
