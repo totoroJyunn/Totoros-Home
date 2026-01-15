@@ -1,9 +1,10 @@
-name: Update README contributors preview
+name: Update README contributors & updates preview
 
 on:
   push:
     paths:
       - CONTRIBUTORS.md
+      - UPDATE_LOG.md
 
 jobs:
   update-readme:
@@ -12,6 +13,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      # -------- Contributors --------
       - name: Update contributors section in README
         run: |
           CONTRIBUTORS=$(grep '^-' CONTRIBUTORS.md | tail -n 5)
@@ -34,10 +36,41 @@ jobs:
 
           mv README.tmp README.md
 
+      # -------- Update Log --------
+      - name: Update update log preview in README
+        run: |
+          UPDATES=$(tail -n +3 UPDATE_LOG.md | head -n 3 | awk -F'|' '
+            {
+              gsub(/^ +| +$/, "", $2);
+              gsub(/^ +| +$/, "", $3);
+              gsub(/^ +| +$/, "", $4);
+              gsub(/^ +| +$/, "", $5);
+              printf "- **%s** · *%s* · %s _(by %s)_\n", $5, $2, $3, $4
+            }')
+
+          awk '
+          BEGIN {in_block=0}
+          /<!-- UPDATE_LOG_START -->/ {
+            print;
+            in_block=1;
+            print UPDATES;
+            next
+          }
+          /<!-- UPDATE_LOG_END -->/ {
+            in_block=0;
+            print;
+            next
+          }
+          !in_block {print}
+          ' UPDATES="$UPDATES" README.md > README.tmp
+
+          mv README.tmp README.md
+
+      # -------- Commit --------
       - name: Commit changes
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
           git add README.md
-          git commit -m "Auto-update contributors preview" || exit 0
+          git commit -m "Auto-update README previews" || exit 0
           git push
