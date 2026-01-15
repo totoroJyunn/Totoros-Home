@@ -7,17 +7,14 @@ Leave the place more orderly and pleasant than you found it.
 
 ## Contributors
 
+## Contributors
+
 This space is shaped by the people who have lived and acted here.
 
-A partial list of contributors:
-- Shawn
-- 南さん
-- Popi and Will
-- seeya
-- 小田
+<!-- CONTRIBUTORS_START -->
+<!-- CONTRIBUTORS_END -->
 
 → See the full list in [CONTRIBUTORS.md](./CONTRIBUTORS.md)
-
 ## About inviting others to stay
 (for people who have stayed here before)
 If you want to invite someone to stay here, you may decide on your own and give them the address.
