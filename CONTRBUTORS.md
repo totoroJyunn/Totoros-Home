@@ -1,4 +1,12 @@
-#contributor
+## Contributors
+
+“Contributors” here does not simply mean people who stayed overnight, 
+nor does it mean residents in a formal sense.
+
+It refers to those who chose to live here with initiative — 
+people who acted with care, helped maintain the space, 
+and contributed in their own ways, rather than merely consuming what was provided.
+
 1. Shawn
 2. 南さん
 3. Popi and will
@@ -13,7 +21,7 @@
 12. Kotaro
 13. tsunami
 14. Arturo
-15. nicolas
+15. Rossy And Nicolas
 16. lisa
 17. ホホとSamed and Willow 
 18. Саша и Николай и Светлана
