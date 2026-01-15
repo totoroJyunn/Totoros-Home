@@ -14,7 +14,7 @@ and contributed in their own ways, rather than merely consuming what was provide
 - seeya
 - 小田
 - danz
-- 沐然和許漪
+- 沐然和許漪 2025-12-20 to 25
 - 素白和阿浪
 - 丁丁和君君
 - Саша（Poland）
