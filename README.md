@@ -10,6 +10,11 @@ Leave the place more orderly and pleasant than you found it.
 This space is shaped by the people who have lived and acted here.
 
 <!-- CONTRIBUTORS_START -->
+- Саша и Николай и Светлана
+- Elif
+- Keith
+- Meena
+- Daniel and Sunflower
 <!-- CONTRIBUTORS_END -->
 
 → See the full list in [CONTRIBUTORS.md](./CONTRIBUTORS.md)
